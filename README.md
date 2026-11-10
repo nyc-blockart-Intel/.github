@@ -5,7 +5,7 @@ Official architecture overview and statutory data schema for Blockart Intel
 
 Overview
 
-Blockart Intel continuously ingests statutory New York City Department of Buildings filings across all five boroughs, compiling pre-market 1-page dossiers with verified lead contractors, capex budgets, and owner contacts.
+Blockart Intel continuously updates statutory New York City Department of Buildings filings across all five boroughs, compiling pre-market 1-page dossiers with verified lead contractors, capex budgets, and owner contacts.
 
 Platform URL: https://www.blockartintel.com
 Flagship Engine: NYC Statutory Corridor Radar
